@@ -1,0 +1,9 @@
+{
+    "type" : "IconPack",
+    "name" : "Powered Steel (Gaming)",
+    "author" : "RecklessBoon",
+    "repository" : "https://github.com/RecklessBoon/Macro-Deck-Icon-Powered-Steel-Gaming",
+    "packageId" : "RecklessBoon.PoweredSteel.Gaming",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
+  }
